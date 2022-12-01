@@ -1,0 +1,9 @@
+Install it for a better use.
+
+INSTALL = install-Jarvis.exe
+
+!!!
+
+For the Program to Run, run the file called requirements.txt in terminal, as 'pip install -r requirements.txt'
+
+!!!
